@@ -1,0 +1,17 @@
+.linkedin-profile-badge-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh; /* Set the container height to occupy the full viewport height */
+  }
+  
+.linkedin-profile-badge {
+  display: inline-block;
+  vertical-align: center;
+}
+
+.linkedin-profile-link {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
