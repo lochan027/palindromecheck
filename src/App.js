@@ -1,7 +1,7 @@
 import logo from './Logo.jpg';
 import './App.css';
 import React, { useState } from 'react';
-
+import LinkedInBadge from './Linkdein';
 function App() {
   const [inputText, setInputText] = useState('');
   const [result, setResult] = useState('');
@@ -46,7 +46,10 @@ function App() {
         </form>
         <div className="result">{result && <p>{result}</p>}</div>
       </div>
+      
       <div className='footer'>
+      
+        <LinkedInBadge />
         <h6> This is made by Lochan Acharya.</h6>
       </div>
     </div>
