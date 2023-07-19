@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/palindromecheck/static/css/main.179cd6e4.css",
+    "main.js": "/palindromecheck/static/js/main.abbe2679.js",
+    "static/js/787.d4901020.chunk.js": "/palindromecheck/static/js/787.d4901020.chunk.js",
+    "static/media/Logo.jpg": "/palindromecheck/static/media/Logo.fea19bb94d5515362556.jpg",
+    "index.html": "/palindromecheck/index.html",
+    "main.179cd6e4.css.map": "/palindromecheck/static/css/main.179cd6e4.css.map",
+    "main.abbe2679.js.map": "/palindromecheck/static/js/main.abbe2679.js.map",
+    "787.d4901020.chunk.js.map": "/palindromecheck/static/js/787.d4901020.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179cd6e4.css",
+    "static/js/main.abbe2679.js"
+  ]
+}
